@@ -1,0 +1,7 @@
+img {
+    object-fit: cover;
+    width: 100vw;
+}
+body {
+    background-color: black;
+}
